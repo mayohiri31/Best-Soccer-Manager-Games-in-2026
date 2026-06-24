@@ -12,7 +12,7 @@
 
 ## Heavy Spin: Best Text-Based Tactical Experience
 
-**Heavy Spin** is a browser-based online football management simulator that emphasizes text-based matches. It stands out as one of the best football manager games of 2026 for players who value strategy, speed, and accessibility.
+**[heavyspin.com](https://heavyspin.com)** is a browser-based online football management simulator that emphasizes text-based matches. It stands out as one of the best football manager games of 2026 for players who value strategy, speed, and accessibility.
 
 Matches last just **60 seconds**, focusing purely on tactical decisions, formations, player roles, and reading the game. No downloads or long loading times are required.
 
