@@ -37,7 +37,7 @@ Built on the **Unity engine** for the first time, it offers the deepest career m
 - Rich storytelling elements, advanced recruitment tools, and deep national team options.
 - Premier League licensing and numerous quality-of-life improvements.
 
-**Note:** Some players on Reddit have reported mixed feelings regarding certain changes and performance in FM 26.
+**Note:** Some [players on Reddit](https://www.reddit.com/r/footballmanagergames/comments/1oyia3x/serious_question_what_are_some_between_matches/) have reported mixed feelings regarding certain changes and performance in FM 26.
 
 ## Soccer Manager 2026
 
